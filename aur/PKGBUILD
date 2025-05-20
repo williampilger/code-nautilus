@@ -1,10 +1,10 @@
-# Maintainer: tkit <ch1994@outlook.com>
+# Maintainer: tkit <pro.pilger.will@gmail.com>
 pkgname=code-nautilus-git
 pkgver=r9.ddff975
-pkgrel=2
-pkgdesc="VSCode extension for Nautilus"
+pkgrel=1
+pkgdesc="Extensão do VSCode para Nautilus"
 arch=('i686' 'x86_64')
-url="https://github.com/cra0zy/code-nautilus"
+url="https://github.com/williampilger/code-nautilus"
 license=('custom')
 depends=('python-nautilus')
 makedepends=('git')
