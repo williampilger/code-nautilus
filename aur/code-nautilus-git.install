@@ -1,7 +1,7 @@
 post_install() {
-	echo "Remember to restart nautilus by running 'nautilus -q'"
+	echo "Lembre-se de reiniciar o Nautilus rodando 'nautilus -q'"
 }
 
 post_remove() {
-	echo "Remember to restart nautilus by running 'nautilus -q'"
+	echo "Lembre-se de reiniciar o Nautilus rodando 'nautilus -q'"
 }
