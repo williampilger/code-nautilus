@@ -1,15 +1,21 @@
 # code-nautilus
 
-This repo provides a visual studio code extension for Nautilus.
+Este repositório é uma extensão do Nautilus para o Visual Studio.
 
-## Install Extension
+## Instalar a Extensão
 
 ```
-wget -qO- https://raw.githubusercontent.com/harry-cpp/code-nautilus/master/install.sh | bash
+wget -qO- https://raw.githubusercontent.com/williampilger/code-nautilus/master/install.sh | bash
 ```
 
-## Uninstall Extension
+## Desinstalar a Extensão
 
 ```
 rm -f ~/.local/share/nautilus-python/extensions/code-nautilus.py
 ```
+
+
+
+# Sobre
+
+Repositório Original [disponível no Github/harry-cpp](https://github.com/harry-cpp/code-nautilus).
